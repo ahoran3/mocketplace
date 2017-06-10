@@ -1,0 +1,16 @@
+{
+  "name": "mocketplace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Alex Horan",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  }
+}

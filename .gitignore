@@ -1,0 +1,5 @@
+config.json
+
+database/*
+
+node_modules/*
